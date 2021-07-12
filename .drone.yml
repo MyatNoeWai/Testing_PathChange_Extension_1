@@ -11,4 +11,4 @@ steps:
 - name: message
   image: busybox
   commands:
-  - echo "README.md was changed. No my README.md does not change”
+  - echo "README.md was changed.”
