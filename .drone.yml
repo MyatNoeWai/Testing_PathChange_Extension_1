@@ -11,4 +11,4 @@ steps:
 - name: message
   image: busybox
   commands:
-  - echo "README.md was changed.Testing without CONVERT”
+  - echo "README.md was changed”
